@@ -82,5 +82,7 @@ npm run dev
 const API_URL = "http://localhost:5000/api/companies";
 
 
+NETLIFY Link:  https://darling-babka-e09dd8.netlify.app/
+
 
 
