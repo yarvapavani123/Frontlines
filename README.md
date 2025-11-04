@@ -1,5 +1,7 @@
 # 🏢 Companies Directory – Frontend Development 
 
+https://darling-babka-e09dd8.netlify.app/
+
 ## 📌 Overview
 This project is a **React + TypeScript** based frontend application designed to display a directory of companies with filtering, sorting, and pagination features.  
 The main goal of this assignment is to demonstrate frontend development skills, including **API integration**, **state management**, and **UI design**.
@@ -81,8 +83,6 @@ npm run dev
 
 const API_URL = "http://localhost:5000/api/companies";
 
-
-NETLIFY Link:  https://darling-babka-e09dd8.netlify.app/
 
 
 
