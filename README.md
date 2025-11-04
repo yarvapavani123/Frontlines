@@ -41,7 +41,7 @@ Frontlines/
 **Backend -Node.js**
 
 
-**How to Clone The code**
+**How to Clone and run the code**
 
 **Step 1️⃣: Clone the Repository**
 ```bash
